@@ -1,0 +1,30 @@
+### Django & Python ###
+*.log
+*.pot
+*.py[cod]
+*.pyc
+__pycache__/
+local_settings.py
+
+### Database ###
+db.sqlite3
+*.db
+
+### Environmental Settings ###
+.env
+*.env
+
+# VirtualEnv
+_env/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
